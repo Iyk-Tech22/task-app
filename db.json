@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Code ",
+      "day": "Mon, 23, Nov 2023",
+      "reminder": true,
+      "id": 1
+    },
+    {
+      "text": "Washing Cloth",
+      "day": "Mon, 23, Nov 2023",
+      "reminder": true,
+      "id": 2
+    }
+  ]
+}
